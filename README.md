@@ -7,3 +7,6 @@
 ## What are Promises?
 [Gist](https://gist.github.com/florianmaxim/dc9da3b690fe25cf6047603b473c5b4e)
 [Code](https://codesandbox.io/s/7oww7k7xq6)
+
+## When to use super()?
+[Code](https://codesandbox.io/s/0vxx9zq99w)

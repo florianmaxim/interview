@@ -4,6 +4,6 @@
 [Gist](https://gist.github.com/florianmaxim/d3080928e36a150f725dd85b7f52943f)
 [Code](https://codesandbox.io/s/0o392r91v)
 
-## What are Promises??
+## What are Promises?
 [Gist](https://gist.github.com/florianmaxim/dc9da3b690fe25cf6047603b473c5b4e)
 [Code](https://codesandbox.io/s/7oww7k7xq6)

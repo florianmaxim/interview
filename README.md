@@ -7,6 +7,7 @@ Documentation of my Learning (to skip the interview).
 [Code](https://codesandbox.io/s/0o392r91v)
 
 ## When to use super()?
+[Gist](https://gist.github.com/florianmaxim/b8db5def700cf30c33f3d50744c53cf5)
 [Code](https://codesandbox.io/s/0vxx9zq99w)
 
 ## What are Promises?

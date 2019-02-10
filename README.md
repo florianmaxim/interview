@@ -21,3 +21,6 @@ Documentation of my Learning (to skip the interview).
 ## What does an *async function* always return?
 [Gist](https://gist.github.com/florianmaxim/ccbfb95210dea7df3efe7789c4ee3b73)
 [Code](https://codesandbox.io/s/r7o24q26xn)
+
+## What is *try/catch*?
+[Code](https://codesandbox.io/s/ql5zlvq949)

@@ -14,3 +14,5 @@
 ## How to use async/await?
 [Gist](https://gist.github.com/florianmaxim/c7a46ece8712e29b012b28c1cf8036a7)
 [Code](https://codesandbox.io/s/406p2voxvw)
+
+## What does an *async function* always return?

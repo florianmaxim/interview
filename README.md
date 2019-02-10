@@ -1,4 +1,6 @@
-# interview
+# Interview
+
+Documentation of my Learning (to skip the interview).
 
 ## What is Hoisting?
 [Gist](https://gist.github.com/florianmaxim/d3080928e36a150f725dd85b7f52943f)
@@ -16,3 +18,5 @@
 [Code](https://codesandbox.io/s/406p2voxvw)
 
 ## What does an *async function* always return?
+[Gist](https://gist.github.com/florianmaxim/ccbfb95210dea7df3efe7789c4ee3b73)
+[Code](https://codesandbox.io/s/r7o24q26xn)

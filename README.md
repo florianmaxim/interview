@@ -10,6 +10,12 @@ Documentation of my Learning (to skip the interview).
 [Gist](https://gist.github.com/florianmaxim/b8db5def700cf30c33f3d50744c53cf5)
 [Code](https://codesandbox.io/s/0vxx9zq99w)
 
+## What is *this*?
+[Code](https://codesandbox.io/s/24z83jlz6j)
+
+## What is binding?
+//TODO:
+
 ## What are Promises?
 [Gist](https://gist.github.com/florianmaxim/dc9da3b690fe25cf6047603b473c5b4e)
 [Code](https://codesandbox.io/s/7oww7k7xq6)

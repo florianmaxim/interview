@@ -3,7 +3,7 @@
 Documentation of my Learning in the format of most simple examples.
 
 *"If you can't explain it simply, you don't understand it well enough".*
-<p align="right">-Albert EInstein</p>
+<p align="right">*-Albert Einstein*</p>
 
 ## What is Hoisting?
 [Gist](https://gist.github.com/florianmaxim/d3080928e36a150f725dd85b7f52943f)

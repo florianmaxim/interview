@@ -1,6 +1,9 @@
-# Interview
+# Documentation of Learning (DOL)
 
-Documentation of my Learning (to skip the interview).
+Documentation of my Learning in the format of most simple examples.
+
+*"If you can't explain it simply, you don't understand it well enough".*
+<p align="right">-Albert EInstein</p>
 
 ## What is Hoisting?
 [Gist](https://gist.github.com/florianmaxim/d3080928e36a150f725dd85b7f52943f)

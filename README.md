@@ -9,6 +9,9 @@ Documentation of my Learning in the format of most simple examples.
 [Gist](https://gist.github.com/florianmaxim/d3080928e36a150f725dd85b7f52943f)
 [Code](https://codesandbox.io/s/0o392r91v)
 
+## What are functions besides function?
+[Code](https://codesandbox.io/s/wwl27355zk)
+
 ## When to use super()?
 [Gist](https://gist.github.com/florianmaxim/b8db5def700cf30c33f3d50744c53cf5)
 [Code](https://codesandbox.io/s/0vxx9zq99w)

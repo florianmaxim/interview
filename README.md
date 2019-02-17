@@ -1,6 +1,6 @@
-# Documentation of Learning (DOL)
+# All The Questions I've Ever Asked Myself (About Programming)
 
-Documentation of my Learning in the format of most simple examples.
+Documentation of my Learning in a very simple format.
 
 *"If you can't explain it simply, you don't understand it well enough".*
 <p align="right"><i>-Albert Einstein</i></p>

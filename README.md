@@ -2,8 +2,8 @@
 
 Documentation of my Learning in a very simple format.
 
-<p align="right">*"If you can't explain it simply, you don't understand it well enough".*
-<i>-Albert Einstein</i></p>
+<p align="right">*"If you can't explain it simply, you don't understand it well enough".*</p>
+<p align="right"><i>-Albert Einstein</i></p>
 
 ## What is Hoisting?
 [Gist](https://gist.github.com/florianmaxim/d3080928e36a150f725dd85b7f52943f)

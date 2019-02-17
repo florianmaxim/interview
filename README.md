@@ -2,7 +2,7 @@
 
 Documentation of my Learning in a very simple format.
 
-<p align="right">*"If you can't explain it simply, you don't understand it well enough".*</p>
+<p align="right"><i>"If you can't explain it simply, you don't understand it well enough".</i></p>
 <p align="right"><i>-Albert Einstein</i></p>
 
 ## What is Hoisting?

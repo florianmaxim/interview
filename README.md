@@ -38,5 +38,4 @@ Proof and Documentation of my Learning in a simple Format.
 [Code](https://codesandbox.io/s/ql5zlvq949)
 
 ## Why is ['a','b','c'] not equal to ['a','b','c']?
-### (And how to compare arrays.)
 [Code](https://codesandbox.io/s/jlo0741kov)

@@ -1,4 +1,4 @@
-# All The Questions I've Ever Asked Myself (About Programming)
+# All The Questions I've Ever Asked Myself (About JavaScript)
 
 Documentation of my Learning in a very simple format.
 

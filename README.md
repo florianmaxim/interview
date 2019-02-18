@@ -5,6 +5,9 @@ Proof and Documentation of my Learning in a simple Format.
 <p align="right"><i>"If you can't explain it simply, you don't understand it well enough".</i></p>
 <p align="right"><i>-Albert Einstein</i></p>
 
+## What is *this*?
+[Code](https://codesandbox.io/s/24z83jlz6j)
+
 ## What is Hoisting?
 [Gist](https://gist.github.com/florianmaxim/d3080928e36a150f725dd85b7f52943f)
 [Code](https://codesandbox.io/s/0o392r91v)
@@ -15,9 +18,6 @@ Proof and Documentation of my Learning in a simple Format.
 ## When to use super()?
 [Gist](https://gist.github.com/florianmaxim/b8db5def700cf30c33f3d50744c53cf5)
 [Code](https://codesandbox.io/s/0vxx9zq99w)
-
-## What is *this*?
-[Code](https://codesandbox.io/s/24z83jlz6j)
 
 ## What is binding?
 //TODO:

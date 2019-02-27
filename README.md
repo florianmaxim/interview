@@ -39,3 +39,6 @@ Proof and Documentation of my Learning in a simple Format.
 
 ## Why is ['a','b','c'] not equal to ['a','b','c']?
 [Code](https://codesandbox.io/s/jlo0741kov)
+
+## What is the regex shorthand to find all alphanumerical characters within a string?
+[Code](https://codesandbox.io/s/6wp9nokylz)

@@ -45,3 +45,7 @@ Proof and Documentation of my Learning in a simple Format.
 
 ## [TODO] What is the difference between *slice* and *splice*?
 [Code]()
+
+# [TODO] What are Immediately Invoked Function Expression (IIFE)?
+[Code]()
+

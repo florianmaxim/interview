@@ -42,3 +42,6 @@ Proof and Documentation of my Learning in a simple Format.
 
 ## What is the regex shorthand to find all alphanumerical characters within a string?
 [Code](https://codesandbox.io/s/6wp9nokylz)
+
+## [TODO] What is the difference between *slice* and *splice*?
+[Code]()

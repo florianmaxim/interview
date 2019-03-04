@@ -43,8 +43,8 @@ Proof and Documentation of my Learning in a simple Format.
 ## What is the regex shorthand to find all alphanumerical characters within a string?
 [Code](https://codesandbox.io/s/6wp9nokylz)
 
-## [TODO] What is the difference between *slice* and *splice*?
-[Code]()
+## What is the difference between *slice* and *splice*?
+[Code](https://codesandbox.io/s/pm5rkr3v0m)
 
 # [TODO] What are Immediately Invoked Function Expression (IIFE)?
 [Code]()

@@ -49,6 +49,9 @@ Proof and Documentation of my Learning in a simple Format.
 ## [TODO] How does *reduce* work?
 [Code](https://codesandbox.io/s/)
 
+## What is a *curried* function?
+[Code](https://codesandbox.io/s/j231p399jy)
+
 ## [TODO] What are Immediately Invoked Function Expression (IIFE)?
 [Code]()
 

@@ -46,6 +46,6 @@ Proof and Documentation of my Learning in a simple Format.
 ## What is the difference between *slice* and *splice*?
 [Code](https://codesandbox.io/s/pm5rkr3v0m)
 
-# [TODO] What are Immediately Invoked Function Expression (IIFE)?
+## [TODO] What are Immediately Invoked Function Expression (IIFE)?
 [Code]()
 

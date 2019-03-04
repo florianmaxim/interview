@@ -46,6 +46,9 @@ Proof and Documentation of my Learning in a simple Format.
 ## What is the difference between *slice* and *splice*?
 [Code](https://codesandbox.io/s/pm5rkr3v0m)
 
+## [TODO] How does *reduce* work?
+[Code](https://codesandbox.io/s/)
+
 ## [TODO] What are Immediately Invoked Function Expression (IIFE)?
 [Code]()
 

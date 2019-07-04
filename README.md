@@ -57,3 +57,8 @@ Proof and Documentation of my Learning in a simple Format.
 
 ## [TODO] What is the difference between *for(const x in x)* and *for(const a in b)* ?
 
+## What is a *curried* function?
+[Code](https://codesandbox.io/s/j231p399jy)
+
+## How can you actually fuck up a switch statement?
+[Code](https://codesandbox.io/s/hungry-fire-l6txc)

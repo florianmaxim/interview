@@ -55,10 +55,8 @@ Proof and Documentation of my Learning in a simple Format.
 ## [TODO] What are Immediately Invoked Function Expression (IIFE)?
 [Code]()
 
-## [TODO] What is the difference between *for(const x in y)* and *for(const a of b)* ?
-
-## What is a *curried* function?
-[Code](https://codesandbox.io/s/j231p399jy)
+## What is the difference between *for(const x in y)* and *for(const a of b)* ?
+[Code](https://codesandbox.io/s/vibrant-cori-i4kh7)
 
 ## How can you actually fuck up a simple switch statement ('Tomato Is A Fruit Is Not A Fruit')?
 [Code](https://codesandbox.io/s/hungry-fire-l6txc)

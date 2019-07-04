@@ -52,8 +52,8 @@ Proof and Documentation of my Learning in a simple Format.
 ## What is a *curried* function?
 [Code](https://codesandbox.io/s/j231p399jy)
 
-## [TODO] What are Immediately Invoked Function Expression (IIFE)?
-[Code]()
+## What are Immediately Invoked Function Expressions (IIFE)?
+[Code](https://codesandbox.io/s/cool-moore-cyg5z)
 
 ## What is the difference between *for(const x in y)* and *for(const a of b)* ?
 [Code](https://codesandbox.io/s/vibrant-cori-i4kh7)

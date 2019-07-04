@@ -60,5 +60,5 @@ Proof and Documentation of my Learning in a simple Format.
 ## What is a *curried* function?
 [Code](https://codesandbox.io/s/j231p399jy)
 
-## How can you actually fuck up a simple switch statement('Tomato Is A Fruit Is Not A Fruit')?
+## How can you actually fuck up a simple switch statement ('Tomato Is A Fruit Is Not A Fruit')?
 [Code](https://codesandbox.io/s/hungry-fire-l6txc)

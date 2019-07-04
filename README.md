@@ -1,7 +1,4 @@
 # All The Questions I've Ever Asked Myself (About JavaScript)
-
-Proof and Documentation of my Learning in a simple Format.
-
 <p align="right"><i>"If you can't explain it simply, you don't understand it well enough".</i></p>
 <p align="right"><i>-Albert Einstein</i></p>
 

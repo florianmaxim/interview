@@ -7,6 +7,7 @@
   <summary>Answer</summary>
   Because the sum of it's characters char codes is higher. 
 </details>
+
 [Code](https://codesandbox.io/s/comparings-strings-7j9z2)
 
 ## What is *this*?

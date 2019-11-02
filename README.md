@@ -2,6 +2,12 @@
 <p align="right"><i>"If you can't explain it simply, you don't understand it well enough".</i></p>
 <p align="right"><i>-Albert Einstein</i></p>
 
+## TODO: What is binding?
+[Code](https://codesandbox.io/s/)
+
+## TODO: How does *reduce* work?
+[Code](https://codesandbox.io/s/)
+
 ## Why is "sun" > "ibm" ?
 <details>
   <summary>Answer</summary>
@@ -11,14 +17,16 @@
 [Code](https://codesandbox.io/s/comparings-strings-7j9z2)
 
 ## What are functions besides function?
+<details>
+  <summary>Answer</summary>
+  Functions are also values, so they can be provided to functions as well.
+</details>
+
 [Code](https://codesandbox.io/s/wwl27355zk)
 
 ## When to use super()?
 [Gist](https://gist.github.com/florianmaxim/b8db5def700cf30c33f3d50744c53cf5)
 [Code](https://codesandbox.io/s/0vxx9zq99w)
-
-## What is binding?
-//TODO:
 
 ## What are Promises?
 [Gist](https://gist.github.com/florianmaxim/dc9da3b690fe25cf6047603b473c5b4e)
@@ -43,9 +51,6 @@
 
 ## What is the difference between *slice* and *splice*?
 [Code](https://codesandbox.io/s/pm5rkr3v0m)
-
-## [TODO] How does *reduce* work?
-[Code](https://codesandbox.io/s/)
 
 ## What is a *curried* function?
 [Code](https://codesandbox.io/s/j231p399jy)

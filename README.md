@@ -2,6 +2,9 @@
 <p align="right"><i>"If you can't explain it simply, you don't understand it well enough".</i></p>
 <p align="right"><i>-Albert Einstein</i></p>
 
+## Why is "sun" > "ibm" ?
+[Code](https://codesandbox.io/s/comparings-strings-7j9z2)
+
 ## What is *this*?
 [Code](https://codesandbox.io/s/24z83jlz6j)
 

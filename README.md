@@ -2,9 +2,9 @@
 <p align="right"><i>"If you can't explain it simply, you don't understand it well enough".</i></p>
 <p align="right"><i>-Albert Einstein</i></p>
 
-
+## Why is "sun" > "ibm" ?
 <details>
-  <summary>Why is "sun" > "ibm" ?</summary>
+  <summary>Answer</summary>
   Because the sum of it's characters char codes is higher. 
 </details>
 

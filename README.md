@@ -10,13 +10,6 @@
 
 [Code](https://codesandbox.io/s/comparings-strings-7j9z2)
 
-## What is *this*?
-[Code](https://codesandbox.io/s/24z83jlz6j)
-
-## What is Hoisting?
-[Gist](https://gist.github.com/florianmaxim/d3080928e36a150f725dd85b7f52943f)
-[Code](https://codesandbox.io/s/0o392r91v)
-
 ## What are functions besides function?
 [Code](https://codesandbox.io/s/wwl27355zk)
 
@@ -65,3 +58,10 @@
 
 ## How can you actually fuck up a simple switch statement ('Tomato Is A Fruit Is Not A Fruit')?
 [Code](https://codesandbox.io/s/hungry-fire-l6txc)
+
+## What is Hoisting?
+[Gist](https://gist.github.com/florianmaxim/d3080928e36a150f725dd85b7f52943f)
+[Code](https://codesandbox.io/s/0o392r91v)
+
+## What is *this*?
+[Code](https://codesandbox.io/s/24z83jlz6j)

@@ -4,7 +4,7 @@
 
 
 <details>
-  <summary>## Why is "sun" > "ibm" ?</summary>
+  <summary>Why is "sun" > "ibm" ?</summary>
   Because the sum of it's characters char codes is higher. 
 </details>
 

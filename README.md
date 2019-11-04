@@ -70,7 +70,8 @@
 
 ## What is 'scope'?
 <details>
-  <summary>Scope is the area withing code in which a resource is available</summary>
+  <summary>Answer</summary>
+  Scope is the area withing code in which a resource is available
 </details>
 
 [Code](https://codesandbox.io/s/scope-yuiju)

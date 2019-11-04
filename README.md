@@ -1,4 +1,4 @@
-# All The Questions I've Ever Asked Myself (About JavaScript) (19)
+# All The Questions I've Ever Asked Myself (About JavaScript)
 <p align="right"><i>"If you can't explain it simply, you don't understand it well enough".</i></p>
 <p align="right"><i>-Albert Einstein</i></p>
 
@@ -78,3 +78,5 @@
 
 ## What is *this*?
 [Code](https://codesandbox.io/s/24z83jlz6j)
+
+# (19 Questions)

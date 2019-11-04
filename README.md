@@ -1,4 +1,4 @@
-# All The Questions I've Ever Asked Myself (About JavaScript)
+# All The Questions I've Ever Asked Myself (About JavaScript) (19)
 <p align="right"><i>"If you can't explain it simply, you don't understand it well enough".</i></p>
 <p align="right"><i>-Albert Einstein</i></p>
 
@@ -67,6 +67,13 @@
 ## What is Hoisting?
 [Gist](https://gist.github.com/florianmaxim/d3080928e36a150f725dd85b7f52943f)
 [Code](https://codesandbox.io/s/0o392r91v)
+
+## What is 'scope'?
+<details>
+  <summary>Scope is the area withing code in which a resource is available</summary>
+</details>
+
+[Code](https://codesandbox.io/s/scope-yuiju)
 
 ## What is *this*?
 [Code](https://codesandbox.io/s/24z83jlz6j)

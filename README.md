@@ -8,6 +8,14 @@
 ## TODO: How does *reduce* work?
 [Code](https://codesandbox.io/s/)
 
+## Which operator can be <i>unary</i> and  <i>binary</i> at the samew time?
+<details>
+  <summary>Answer</summary>
+  The 'Minus'- operator can be both: - ( 5 - 6 ). Unary operator expect a signle argument, binary ones expect two.
+</details>
+
+[Code](https://codesandbox.io/s/comparings-strings-7j9z2)
+
 ## Why is "sun" > "ibm" ?
 <details>
   <summary>Answer</summary>

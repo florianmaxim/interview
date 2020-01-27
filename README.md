@@ -2,6 +2,9 @@
 <p align="right"><i>"If you can't explain it simply, you don't understand it well enough".</i></p>
 <p align="right"><i>-Albert Einstein</i></p>
 
+## TODO: What is imul()?
+
+
 ## TODO: What is binding?
 [Code](https://codesandbox.io/s/)
 
